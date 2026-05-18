@@ -1,0 +1,11 @@
+{
+    "description": "My Fullstack Developer Portfolio",
+    "repo": "https://github.com/my-portfolio/",
+    "owner": {
+        "username": "svrlessdev",
+        "email": "bappherhjr11@gmail.com"
+    },
+    "record": {
+        "CNAME": "svrlessdev.github.io"
+    }
+}
